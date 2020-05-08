@@ -22,7 +22,7 @@ const cargardb = () => {
 }
 
 const crear = (descripcion) => {
-    let porHacer ={
+    let porHacer = {
         descripcion:descripcion,
         completado:false
     }
